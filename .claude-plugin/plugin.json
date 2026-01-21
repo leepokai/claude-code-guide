@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-guide",
+  "version": "1.0.0",
+  "description": "A comprehensive guide for Claude Code CLI, Claude Agent SDK, and Claude API. Get help with features, configurations, and best practices.",
+  "author": {
+    "name": "leepokai"
+  },
+  "repository": "https://github.com/leepokai/claude-code-guide",
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "agent-sdk", "api", "guide", "documentation", "help"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "leepokai",
+  "version": "1.0.0",
+  "owner": {
+    "name": "leepokai"
+  },
+  "metadata": {
+    "description": "Comprehensive guide for Claude Code CLI, Agent SDK, and Claude API documentation"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-guide",
+      "source": "./",
+      "description": "A comprehensive guide for Claude Code CLI, Claude Agent SDK, and Claude API. Get help with features, configurations, and best practices.",
+      "version": "1.0.0",
+      "author": {
+        "name": "leepokai"
+      },
+      "category": "documentation",
+      "keywords": ["claude", "claude-code", "agent-sdk", "api", "guide", "documentation", "help"],
+      "license": "MIT",
+      "repository": "https://github.com/leepokai/claude-code-guide"
+    }
+  ]
+}
