@@ -1,6 +1,7 @@
 # Claude Code Guide Plugin
 
-A comprehensive guide plugin for Claude Code CLI, Claude Agent SDK, and Claude API.
+A comprehensive guide plugin for Claude Code CLI, Claude Agent SDK, and Claude API, especially helpful for skill creators.
+
 
 ## Features
 
